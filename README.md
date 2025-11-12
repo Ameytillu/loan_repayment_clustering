@@ -17,7 +17,7 @@ The app provides several visualizations to understand customer behavior:
 
 ---
 
-### 🤖 **KMeans Clustering**
+### **KMeans Clustering**
 - Uses **all numerical features** + dummy-encoded categorical features  
 - Features are scaled using **StandardScaler**  
 - User selects `k` (number of clusters) using an interactive slider  
@@ -41,8 +41,4 @@ This helps understand:
 - How the model behaves under different cluster settings  
 
 ---
-
-
-
-## 📂 **Project Structure**
 
